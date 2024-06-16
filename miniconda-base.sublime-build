@@ -1,8 +1,9 @@
 // Run with Python from Miniconda
 // Can use a specific environment by changing the Python path
+// The $USER may not always work, so replace with your username
 
 {
     "cmd": ["/home/$USER/miniconda3/bin/python", "-u", "$file"],
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
     "selector": "source.python"
-}path
+}
