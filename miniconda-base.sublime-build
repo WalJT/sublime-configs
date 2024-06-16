@@ -1,0 +1,8 @@
+// Run with Python from Miniconda
+// Can use a specific environment by changing the Python path
+
+{
+    "cmd": ["/home/$USER/miniconda3/bin/python", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+}path
