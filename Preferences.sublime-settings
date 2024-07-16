@@ -1,0 +1,7 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"color_scheme": "auto",
+	"light_color_scheme": "Breakers.sublime-color-scheme",
+	"dark_color_scheme": "Mariana.sublime-color-scheme",
+}
