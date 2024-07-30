@@ -4,4 +4,20 @@
 	"color_scheme": "auto",
 	"light_color_scheme": "Breakers.sublime-color-scheme",
 	"dark_color_scheme": "Mariana.sublime-color-scheme",
+
+	"spell_check": true,
+ 	"dictionary": "Packages/Language - English/en_GB.dic",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"added_words":
+	[
+		"Balbriggan",
+		"Rockabill",
+		"Boyne",
+		"Tarquin",
+		"Pixelfed",
+		"fediverse",
+	],
 }
